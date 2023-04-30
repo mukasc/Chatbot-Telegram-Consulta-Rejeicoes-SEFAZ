@@ -11,6 +11,8 @@ Este projeto é um fork do projeto de https://github.com/gabrieellimapy/Consulta
 
 ## Instalação
 
+Como sugestão é possivel rodar o projeto utilizando o : https://colab.research.google.com/
+
 Instale o projeto com pip
 
 ```bash
